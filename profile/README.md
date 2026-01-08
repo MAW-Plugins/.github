@@ -63,8 +63,6 @@ Commercial plugins and systems remain private.
 ## 📚 Documentation & Support
 
 - 🌐 Website: https://mawplugins.com  
-- 📖 Documentation: https://docs.mawplugins.com  
-- 🛠 Support: https://mawplugins.com/support  
 
 For commercial support, licensing, or partnerships, please contact us through the official website.
 
