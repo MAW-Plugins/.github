@@ -1,98 +1,25 @@
 # MAW Plugins
 
-**Professional WordPress & DIVI Plugins for Modern Agencies and SaaS Businesses**
+**Premium WordPress and WooCommerce plugins for agencies and freelancers.**
+Support and CRM that work together inside WordPress.
 
-MAW Plugins is a product-focused initiative by **Mondays at Work**, dedicated to building high-quality, performance-oriented WordPress plugins with a strong focus on **DIVI**, scalability, and clean architecture.
+Launching 10 November 2026 · [mawplugins.com](https://mawplugins.com)
 
-We design tools for agencies, SaaS companies, and professional creators who require reliability, maintainability, and a polished user experience.
+## Products
 
----
+- **MAW KB**: a knowledge base and help center for WordPress, with search, article feedback, analytics, Divi support and tickets that go straight into HubSpot.
+- **MAW HubSpot Connector**: syncs your WooCommerce customers and orders to HubSpot as contacts and deals, including abandoned carts and UTM tracking, with GDPR controls built in.
 
-## 🚀 What We Build
+## About this organization
 
-- **Advanced DIVI Modules**  
-  Feature grids, pricing systems, badges, layouts, and UI components designed for real-world projects.
+Our plugins are commercial products and their source code is private. This organization hosts our public profile.
 
-- **Agency-Ready Plugins**  
-  Clean codebases, predictable updates, and long-term maintainability.
+Documentation, support and licensing are available at [mawplugins.com](https://mawplugins.com).
 
-- **SaaS & Subscription-Friendly Architecture**  
-  Licensing, modularity, and extensibility built into the foundation.
+## Follow us
 
-- **UX-First & Performance-Driven**  
-  Every plugin is designed with usability, responsiveness, and performance in mind.
+[LinkedIn](https://www.linkedin.com/company/mawplugins) · [X](https://x.com/mawplugins) · [YouTube](https://www.youtube.com/@mawplugins) · [Instagram](https://www.instagram.com/mawplugins) · [Facebook](https://www.facebook.com/mawplugins)
 
 ---
 
-## 🧠 Philosophy
-
-At MAW Plugins, we believe that:
-- Plugins are **products**, not experiments.
-- Good UX starts with **good architecture**.
-- Agencies need **tools they can trust**, not bloated features.
-- Code should be readable, documented, and future-proof.
-
----
-
-## 📦 Ecosystem
-
-Our ecosystem includes:
-
-- Premium DIVI modules and plugins  
-- Shared internal cores and utilities  
-- Developer tooling and boilerplates  
-- Licensing and update systems  
-
-Some repositories are public for transparency and community value.  
-Commercial plugins and systems remain private.
-
----
-
-## 🔧 Technology Stack
-
-- WordPress (Modern plugin architecture)
-- PHP (Clean, standards-compliant)
-- JavaScript (ES6+)
-- DIVI Framework
-- MySQL
-- GitHub Actions (CI/CD)
-- Composer / Build tooling (where applicable)
-
----
-
-## 📚 Documentation & Support
-
-- 🌐 Website: https://mawplugins.com  
-
-
-For commercial support, licensing, or partnerships, please contact us through the official website.
-
----
-
-## 🧩 Licensing
-
-- Public repositories: Open-source licenses (MIT or GPL, depending on the project)
-- Commercial plugins: Proprietary licenses
-
-Please refer to each repository’s LICENSE file for details.
-
----
-
-## 🤝 Contributing
-
-We welcome:
-- Bug reports
-- Technical discussions
-- Pull requests on public repositories
-
-All contributions must follow our coding standards and review process.
-
----
-
-## 🏢 About
-
-**MAW Plugins** is developed and maintained by  
-**Mondays at Work S.L.**  
-Madrid, Spain
-
-Building professional tools for professionals.
+MAW Plugins is a product of Mondays at Work S.L., Madrid, Spain.
