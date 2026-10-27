@@ -3,7 +3,7 @@
 **Premium WordPress and WooCommerce plugins for agencies and freelancers.**
 Support and CRM that work together inside WordPress.
 
-Launching 10 November 2026 · [mawplugins.com](https://mawplugins.com)
+Coming soon · [mawplugins.com](https://mawplugins.com)
 
 ## Products
 
