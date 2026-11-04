@@ -18,7 +18,7 @@ Documentation, support and licensing are available at [mawplugins.com](https://m
 
 ## Follow us
 
-[LinkedIn](https://www.linkedin.com/company/mawplugins) · [X](https://x.com/mawplugins) · [YouTube](https://www.youtube.com/@mawplugins) · [Instagram](https://www.instagram.com/mawplugins) · [Facebook](https://www.facebook.com/mawplugins)
+[LinkedIn](https://www.linkedin.com/company/mawplugins) · [X](https://x.com/mawplugins) · [YouTube](https://www.youtube.com/@maw-plugins) · [Instagram](https://www.instagram.com/mawplugins) · [Facebook](https://www.facebook.com/mawplugins)
 
 ---
 
