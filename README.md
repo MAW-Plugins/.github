@@ -1,14 +1,19 @@
-# MAW Plugins
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAW-Plugins/.github/main/profile/brand/mawplugins-logo-on-dark.svg">
+    <img alt="MAW Plugins" src="https://raw.githubusercontent.com/MAW-Plugins/.github/main/profile/brand/mawplugins-logo-on-light.svg" height="48">
+  </picture>
+</p>
 
-**Premium WordPress and WooCommerce plugins for agencies and freelancers.**
-Support and CRM that work together inside WordPress.
+<p align="center"><strong>Premium WordPress and WooCommerce plugins for agencies and freelancers.</strong><br>
+Support and CRM that work together inside WordPress.</p>
 
-Launching 10 November 2026 · [mawplugins.com](https://mawplugins.com)
+<p align="center">Coming soon · <a href="https://mawplugins.com">mawplugins.com</a></p>
 
 ## Products
 
-- **MAW KB**: a knowledge base and help center for WordPress, with search, article feedback, analytics, Divi support and tickets that go straight into HubSpot.
-- **MAW HubSpot Connector**: syncs your WooCommerce customers and orders to HubSpot as contacts and deals, including abandoned carts and UTM tracking, with GDPR controls built in.
+- **MAW-KB**: a knowledge base and help center for WordPress, with live search, article feedback, analytics, Divi support and tickets that go straight into HubSpot.
+- **MAW HubSpot Connector**: sends Divi Contact Form leads and WooCommerce customers and orders to HubSpot as contacts and deals, including abandoned carts and UTM tracking, with GDPR controls built in.
 
 ## About this organization
 
@@ -18,7 +23,7 @@ Documentation, support and licensing are available at [mawplugins.com](https://m
 
 ## Follow us
 
-[LinkedIn](https://www.linkedin.com/company/mawplugins) · [X](https://x.com/mawplugins) · [YouTube](https://www.youtube.com/@mawplugins) · [Instagram](https://www.instagram.com/mawplugins) · [Facebook](https://www.facebook.com/mawplugins)
+[LinkedIn](https://www.linkedin.com/company/mawplugins) · [X](https://x.com/mawplugins) · [YouTube](https://www.youtube.com/@maw-plugins) · [Instagram](https://www.instagram.com/mawplugins) · [Threads](https://www.threads.com/@mawplugins) · [Bluesky](https://bsky.app/profile/mawplugins.com) · [Facebook](https://www.facebook.com/mawplugins)
 
 ---
 
