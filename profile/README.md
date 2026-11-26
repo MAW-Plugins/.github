@@ -13,7 +13,7 @@ Support and CRM that work together inside WordPress.</p>
 ## Products
 
 - **MAW-KB**: a knowledge base and help center for WordPress, with live search, article feedback, analytics, Divi support and tickets that go straight into HubSpot.
-- **MAW HubSpot Connector**: sends Divi Contact Form leads and WooCommerce customers and orders to HubSpot as contacts and deals, including abandoned carts and UTM tracking, with GDPR controls built in.
+- **MAW Connector**: sends Divi Contact Form leads and WooCommerce customers and orders to HubSpot as contacts and deals, including abandoned carts and UTM tracking, with GDPR controls built in.
 
 ## About this organization
 
